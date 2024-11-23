@@ -1,0 +1,8 @@
+ID,name,descr
+1,Pending,Order is pending
+2,Processing,Order is being processed
+3,Shipped,Order has been shipped
+4,Delivered,Order has been delivered
+5,Cancelled,Order has been cancelled
+6,Returned,Order has been returned
+7,Refunded,Order has been refunded
